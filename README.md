@@ -1,6 +1,6 @@
 # Registraion-Form
 <h3> Technology Used :</h3>
-<h4 align = "left"> 1. Programming Language - JAVA <br> 2.FrontEnd - Swing<br>3. Backend - JDBC<br> 4. Tools - NetBeans & XAMPP </h4> 
+<h4 align = "left"> 1. Programming Language - JAVA <br> 2. FrontEnd - Swing<br>3. Backend - JDBC<br> 4. Tools - NetBeans & XAMPP </h4> 
      
 <h3>Registration Form GUI</h3>
 <div align="center">
